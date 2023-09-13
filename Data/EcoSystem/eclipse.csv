@@ -1,0 +1,30 @@
+eclipse/paho.mqtt.embedded-c	Paho MQTT C client library for embedded systems. Paho is an Eclipse IoT project (https://iot.eclipse.org/)	public	2023-08-14T21:43:08Z
+eclipse/jetty.project	Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more	public	2023-08-14T21:38:10Z
+eclipse/lyo	Eclipse Lyo, a Java SDK for OSLC-based tool integration	public	2023-08-14T21:15:06Z
+eclipse/jetty-website	Contents and release generation for display on https://eclipse.dev/jetty	public	2023-08-14T20:46:38Z
+eclipse/jnosql	Eclipse JNoSQL is a framework which has the goal to help Java developers to create Jakarta EE applications with NoSQL.	public	2023-08-14T20:36:36Z
+eclipse/gef-classic	Eclipse GEF(tm) Classic code	public	2023-08-14T19:28:18Z
+eclipse/omr	Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes	public	2023-08-14T19:17:11Z
+eclipse/microprofile-metrics	microprofile-metrics	public	2023-08-14T18:57:54Z
+eclipse/lemminx-maven	lemminx-maven	public	2023-08-14T18:54:06Z
+eclipse/org.eclipse.sensinact.gateway		public	2023-08-14T18:17:03Z
+eclipse/jetty.toolchain	Eclipse Jetty® - Servlet Engine and Http Server project repository (jetty.toolchain)	public	2023-08-14T17:50:51Z
+eclipse/sumo	Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.	public	2023-08-14T16:43:16Z
+eclipse/dirigible	Eclipse Dirigible™ Project	public	2023-08-14T16:40:00Z
+eclipse/kura	Eclipse Kura™ project	public	2023-08-14T16:39:35Z
+eclipse/jkube	Build and Deploy java applications on Kubernetes	public	2023-08-14T16:18:19Z
+eclipse/epsilon-website		public	2023-08-14T14:33:44Z
+eclipse/epsilon	Epsilon is a family of Java-based scripting languages for automating common model-based software engineering tasks, such as code generation, model-to-model transformation and model validation, that work out of the box with EMF (including Xtext and Sirius), UML (including Cameo/MagicDraw), Simulink, XML and other types of models.	public	2023-08-14T14:26:12Z
+eclipse/eclipse-collections	Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.	public	2023-08-14T14:15:13Z
+eclipse/lsp4jakarta	Language Server for Jakarta EE	public	2023-08-14T13:42:35Z
+eclipse/mosaic	Eclipse MOSAIC is a Multi-Domain and Multi-Scale Simulation Framework for Automated and Connected Mobility Scenarios.	public	2023-08-14T13:01:23Z
+eclipse/kiso-testing		public	2023-08-14T12:56:49Z
+eclipse/n4js		public	2023-08-14T12:25:16Z
+eclipse/elk	Eclipse Layout Kernel - Automatic layout for Java applications.	public	2023-08-14T12:00:56Z
+eclipse/che	The Kubernetes-Native IDE for Developer Teams	public	2023-08-14T08:59:18Z
+eclipse/lsp4e	Language Server Protocol support in Eclipse IDE	public	2023-08-14T08:39:26Z
+eclipse/efbt	efbt	public	2023-08-14T07:54:53Z
+eclipse/dash-licenses	Extract license information from content.	public	2023-08-13T21:23:57Z
+eclipse/tm4e	TextMate support in Eclipse IDE	public	2023-08-13T21:08:45Z
+eclipse/tahu	Eclipse Tahu addresses the existence of legacy SCADA/DCS/ICS protocols and infrastructures and provides a much-needed definition of how best to apply MQTT into these existing industrial operational environments.	public	2023-08-13T16:29:12Z
+eclipse/chemclipse	ChemClipse Project	public	2023-08-13T09:24:50Z

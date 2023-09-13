@@ -1,0 +1,301 @@
+eclipse/jetty.project                                         Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1...  public            34m
+eclipse/lyo                                                   Eclipse Lyo, a Java SDK for OSLC-based tool integration                          public            46m
+eclipse/gef-classic                                           Eclipse GEF(tm) Classic code                                                     public            1h
+eclipse/omr                                                   Eclipse OMR™ Cross platform components for building reliable, high performan...  public            1h
+eclipse/microprofile-metrics                                  microprofile-metrics                                                             public            1h
+eclipse/paho.mqtt.embedded-c                                  Paho MQTT C client library for embedded systems. Paho is an Eclipse IoT proj...  public            1h
+eclipse/lemminx-maven                                         lemminx-maven                                                                    public            1h
+eclipse/org.eclipse.sensinact.gateway                                                                                                          public            2h
+eclipse/jetty.toolchain                                       Eclipse Jetty® - Servlet Engine and Http Server project repository (jetty.to...  public            2h
+eclipse/sumo                                                  Eclipse SUMO is an open source, highly portable, microscopic and continuous ...  public            3h
+eclipse/dirigible                                             Eclipse Dirigible™ Project                                                       public            3h
+eclipse/kura                                                  Eclipse Kura™ project                                                            public            3h
+eclipse/jkube                                                 Build and Deploy java applications on Kubernetes                                 public            4h
+eclipse/epsilon-website                                                                                                                        public            6h
+eclipse/epsilon                                               Epsilon is a family of Java-based scripting languages for automating common ...  public            6h
+eclipse/eclipse-collections                                   Eclipse Collections is a collections framework for Java with optimized data ...  public            6h
+eclipse/lsp4jakarta                                           Language Server for Jakarta EE                                                   public            6h
+eclipse/mosaic                                                Eclipse MOSAIC is a Multi-Domain and Multi-Scale Simulation Framework for Au...  public            7h
+eclipse/kiso-testing                                                                                                                           public            7h
+eclipse/n4js                                                                                                                                   public            8h
+eclipse/elk                                                   Eclipse Layout Kernel - Automatic layout for Java applications.                  public            8h
+eclipse/che                                                   The Kubernetes-Native IDE for Developer Teams                                    public            11h
+eclipse/lsp4e                                                 Language Server Protocol support in Eclipse IDE                                  public            11h
+eclipse/efbt                                                  efbt                                                                             public            12h
+eclipse/dash-licenses                                         Extract license information from content.                                        public            23h
+eclipse/tm4e                                                  TextMate support in Eclipse IDE                                                  public            23h
+eclipse/tahu                                                  Eclipse Tahu addresses the existence of legacy SCADA/DCS/ICS protocols and i...  public            1d
+eclipse/chemclipse                                            ChemClipse Project                                                               public            1d
+eclipse/eclipse-collections-kata                              Eclipse Collections Katas                                                        public            1d
+eclipse/kuksa.val                                             kuksa.val                                                                        public            2d
+eclipse/keyple-website                                        Eclipse Keyple™ Project: https://keyple.org/ website                             public            2d
+eclipse/steady                                                Analyses your Java applications for open-source dependencies with known vuln...  public            2d
+eclipse/keyple                                                Eclipse Keyple™ Project: raw repository to handle issue: global for the proj...  public            2d
+eclipse/mosquitto                                             Eclipse Mosquitto - An open source MQTT broker                                   public            2d
+eclipse/microprofile-graphql                                  microprofile-graphql                                                             public            2d
+eclipse/jetty-website                                         Contents and release generation for display on https://eclipse.dev/jetty         public            3d
+eclipse/microprofile-telemetry                                microprofile telemetry                                                           public            3d
+eclipse/capella-website                                       Website for Capella                                                              public            3d
+eclipse/cloe                                                  Cloe                                                                             public            3d
+eclipse/adore                                                 Adore project                                                                    public            3d
+eclipse/microprofile-open-api                                 Microprofile open api                                                            public            3d
+eclipse/capella-pipeline-library                              capella-pipeline-library                                                         public            3d
+eclipse/microprofile-config                                   MicroProfile Configuration Feature                                               public            3d
+eclipse/kapua                                                                                                                                  public            3d
+eclipse/jnosql                                                Eclipse JNoSQL is a framework which has the goal to help Java developers to ...  public            3d
+eclipse/emf.egf                                                                                                                                public            3d
+eclipse/paho.mqtt.golang                                                                                                                       public            3d
+eclipse/packages                                              IoT Packages project                                                             public            4d
+eclipse/lemminx                                               XML Language Server                                                              public            4d
+eclipse/microprofile-parent                                                                                                                    public            4d
+eclipse/capella                                               Open Source Solution for Model-Based Systems Engineering                         public            4d
+eclipse/agileuml                                              AgileUML tools for MDE using UML                                                 public            4d
+eclipse/kuksa.val.services                                    Repository for Vehicle Service Related implementations for Eclipse SDV           public            4d
+eclipse/transformer                                           Eclipse Transformer provides tools and runtime components that transform Jav...  public            4d
+eclipse/jetty.docker                                          jetty docker                                                                     public            4d
+eclipse/mwe                                                   Modeling Workflow Engine project repository (mwe)                                public            4d
+eclipse/paho.mqtt.rust                                        paho.mqtt.rust                                                                   public            4d
+eclipse/paho.golang                                           Go libraries                                                                     public            4d
+eclipse/capella-basic-vp                                                                                                                       public            5d
+eclipse/jifa                                                  Eclipse Jifa                                                                     public            5d
+eclipse/jnosql-extensions                                     This project contains all specialization to Eclipse JNoSQL. The specific beh...  public            5d
+eclipse/jnosql-databases                                      This project contains Eclipse JNoSQL databases                                   public            5d
+eclipse/wakaama                                               Eclipse Wakaama is a C implementation of the Open Mobile Alliance's LightWei...  public            5d
+eclipse/xtext                                                 Eclipse Xtext™ is a language development framework                               public            5d
+eclipse/capella-studio                                        Open source SDK to develop Capella add-ons                                       public            5d
+eclipse/openvsx                                               An open-source registry for VS Code extensions                                   public            6d
+eclipse/lsp4mp                                                Technology lsp4mp                                                                public            6d
+eclipse/mosaic.website                                                                                                                         public            6d
+eclipse/paho.mqtt.android                                     MQTT Android                                                                     public            6d
+eclipse/tinydtls                                              Eclipse tinydtls                                                                 public            7d
+eclipse/emfatic-website                                                                                                                        public            7d
+eclipse/gmf-runtime                                           Eclipse GMF Runtime                                                              public            7d
+eclipse/elk-website                                                                                                                            public            7d
+eclipse/ConfigJSR                                             JSR382                                                                           public            8d
+eclipse/gemoc-studio                                          gemoc-studio                                                                     public            10d
+eclipse/emf-validation                                        EMF Validation extends the core validation support of EMF                        public            10d
+eclipse/swtchart                                                                                                                               public            10d
+eclipse/buildship                                             The Eclipse Plug-ins for Gradle project.                                         public            10d
+eclipse/hawkbit                                               Eclipse hawkBit™                                                                 public            10d
+eclipse/org.eclipse.rcptt                                                                                                                      public            10d
+eclipse/microprofile-reactive-streams-operators               Microprofile project                                                             public            11d
+eclipse/amlen                                                 Message Broker for IoT/Mobile/Web. Mainly uses MQTT v3.x and v5. Aims to be ...  public            11d
+eclipse/mraa                                                  Linux Library for low speed IO Communication in C with bindings for C++, Pyt...  public            11d
+eclipse/paho.mqtt-sn.embedded-c                               Paho C MQTT-SN gateway and libraries for embedded systems. Paho is an Eclips...  public            12d
+eclipse/xacc                                                  XACC - eXtreme-scale Accelerator programming framework                           public            12d
+eclipse/reddeer                                               RedDeer Project                                                                  public            13d
+eclipse/gemoc-studio-modeldebugging                           gemoc-studio-modeldebugging                                                      public            13d
+eclipse/hawkbit-extensions                                                                                                                     public            13d
+eclipse/paho.mqtt.cpp                                                                                                                          public            14d
+eclipse/kuksa.val.feeders                                     kuksa.val.feeders                                                                public            14d
+eclipse/microprofile-starter                                  MicroProfile project generator source code                                       public            14d
+eclipse/xtext-website                                                                                                                          public            14d
+eclipse/Xpect                                                 This repository has been rewritten to move to the Eclipse Foundation. Find t...  public            14d
+eclipse/editdor                                               Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions             public            14d
+eclipse/sisu.plexus                                           Sisu Plexus                                                                      public            14d
+eclipse/hawkbit-website                                                                                                                        public            14d
+eclipse/efbt-website                                                                                                                           public            15d
+eclipse/ecf                                                   ECF project repository                                                           public            16d
+eclipse/openmcx                                               openmcx                                                                          public            17d
+eclipse/keyple-util-java-lib                                  Eclipse Keyple™ Project: utility library for all users                           public            18d
+eclipse/milo                                                  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541).             public            20d
+eclipse/paho.mqtt.c                                           An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API ...  public            21d
+eclipse/packager                                              Eclipse Packager project                                                         public            24d
+eclipse/capella-sss-transition                                System to Sub System transition add-on enables automated and iterative trans...  public            25d
+eclipse/microprofile-build-infra                                                                                                               public            25d
+eclipse/kitalpha                                                                                                                               public            25d
+eclipse/kura-website                                                                                                                           public            25d
+eclipse/lyo.designer                                          lyo.designer                                                                     public            25d
+eclipse/microprofile-samples                                  Micro Profile Samples                                                            public            25d
+eclipse/microprofile-bom                                                                                                                       public            25d
+eclipse/microprofile-evolution-process                        For the evolution of new ideas                                                   public            25d
+eclipse/microprofile-service-mesh                                                                                                              public            25d
+eclipse/microprofile-service-mesh-service-a                   microprofile-service-mesh-service-a                                              public            25d
+eclipse/microprofile-service-mesh-service-b                   microprofile-service-mesh-service-b                                              public            25d
+eclipse/microprofile-opentracing                              microprofile-opentracing                                                         public            25d
+eclipse/microprofile-health                                   microprofile-health                                                              public            25d
+eclipse/microprofile-conference                               Microprofile.io Demo Code - Web Services Conference Application                  public            25d
+eclipse/microprofile-marketing                                                                                                                 public            25d
+eclipse/microprofile-lra                                      microprofile-lra                                                                 public            25d
+eclipse/microprofile-reactive-messaging                                                                                                        public            25d
+eclipse/microprofile-context-propagation                                                                                                       public            25d
+eclipse/microprofile-fault-tolerance                          microprofile fault tolerance                                                     public            25d
+eclipse/microprofile-jwt-auth                                                                                                                  public            25d
+eclipse/microprofile                                          Repository for important documentation - the index to the project / community    public            25d
+eclipse/microprofile-rest-client                              MicroProfile Rest Client                                                         public            25d
+eclipse/microprofile-sandbox                                                                                                                   public            25d
+eclipse/keyple-card-calypso-java-lib                          Eclipse Keyple™ Project: Calypso card extension lib for end users                public            27d
+eclipse/capella-xhtml-docgen                                  XHTML Documentation Generation AddOn provides output HTML files for Capella ...  public            27d
+eclipse/capella-filtering                                     Filtering is an addon to filter capella models                                   public            27d
+eclipse/hawkbit-examples                                                                                                                       public            28d
+eclipse/emf-transaction                                       EMF Transaction provides transactional semantics for (local) EMF model changes   public            Jul 14, 2023
+eclipse/gmf-notation                                          GMF notation repository                                                          public            Jul 14, 2023
+eclipse/xtext-website-publish                                 xtext-website-publish                                                            public            Jul 13, 2023
+eclipse/paho.mqtt.python                                      paho.mqtt.python                                                                 public            Jul 11, 2023
+eclipse/winery                                                Eclipse Winery project                                                           public            Jul  8, 2023
+eclipse/jemo                                                  Jemo project source code                                                         public            Jul  8, 2023
+eclipse/gemoc-studio-execution-moccml                         gemoc-studio-execution-moccml                                                    public            Jul  7, 2023
+eclipse/keti                                                  Eclipse Keti is a service that was designed to protect RESTfuls API using At...  public            Jul  6, 2023
+eclipse/gemoc-studio-commons                                                                                                                   public            Jul  5, 2023
+eclipse/gemoc-studio-moccml                                   gemoc-studio-moccml                                                              public            Jul  5, 2023
+eclipse/gemoc-studio-execution-java                           Gemoc studio execution java                                                      public            Jul  5, 2023
+eclipse/gemoc-studio-execution-ale                            Gemoc studio execution ale                                                       public            Jul  5, 2023
+eclipse/keyple-card-calypso-crypto-legacysam-java-lib         Eclipse Keyple™ Project: Calypso legacy SAM extension lib for end users          public            Jul  3, 2023
+eclipse/sumo.website                                                                                                                           public            Jul  3, 2023
+eclipse/keyple-card-generic-java-lib                          Eclipse Keyple™ Project: add-on library to operate generic smartcard solutio...  public            Jun 30, 2023
+eclipse/nattable-website                                                                                                                       public            Jun 30, 2023
+eclipse/keyple-service-java-lib                               Eclipse Keyple™ Project - Java implementation: main service API for end users    public            Jun 30, 2023
+eclipse/keyple-service-resource-java-lib                      Eclipse Keyple™ Project: add-on library to define a profile-based card resou...  public            Jun 30, 2023
+eclipse/org.eclipse.rap.incubator.e4.compatibility.workbench  rap incubator e4 compatibility workbench                                         public            Jun 28, 2023
+eclipse/packages-website                                                                                                                       public            Jun 26, 2023
+eclipse/keyple-service-cpp-lib                                Eclipse Keyple™ Project - C++ implementation: main service API for end users     public            Jun 22, 2023
+eclipse/keyple-util-cpp-lib                                   keyple-util-cpp-lib                                                              public            Jun 22, 2023
+eclipse/keyple-service-resource-cpp-lib                       keyple-service-resource-cpp-lib                                                  public            Jun 22, 2023
+eclipse/keyple-plugin-stub-cpp-lib                            keyple-plugin-stub-cpp-lib                                                       public            Jun 22, 2023
+eclipse/keyple-plugin-pcsc-cpp-lib                            keyple-plugin-pcsc-cpp-lib                                                       public            Jun 22, 2023
+eclipse/keyple-plugin-cpp-api                                 Eclipse Keyple™ Project - C++ implementation: API for plugin developers          public            Jun 22, 2023
+eclipse/repairnator                                           Software development bots for Github. Join the bot revolution! :star2::robot...  public            Jun 22, 2023
+eclipse/org.eclipse.emf.diffmerge.core                                                                                                         public            Jun 22, 2023
+eclipse/keyple-card-calypso-cpp-lib                           keyple-card-calypso-cpp-lib                                                      public            Jun 22, 2023
+eclipse/keyple-card-generic-cpp-lib                           keyple-card-generic-cpp-lib                                                      public            Jun 22, 2023
+eclipse/keyple-common-cpp-api                                 keyple-common-cpp-api                                                            public            Jun 22, 2023
+eclipse/lyo.oslc-ui                                                                                                                            public            Jun 21, 2023
+eclipse/lyo.testsuite                                         Lyo project repository (lyo.testsuite)                                           public            Jun 21, 2023
+eclipse/keyple-cpp-meta                                       keyple-cpp-meta                                                                  public            Jun 19, 2023
+eclipse/keyple-plugin-pcsc-java-lib                           Eclipse Keyple™ Project: PC/SC plugin lib for end users                          public            Jun 16, 2023
+eclipse/mat-website                                                                                                                            public            Jun 15, 2023
+eclipse/collections-website                                                                                                                    public            Jun 14, 2023
+eclipse/shellwax                                                                                                                               public            Jun 12, 2023
+eclipse/aCute                                                 Eclipse aCute - C# edition in Eclipse IDE                                        public            Jun  7, 2023
+eclipse/eclemma                                               :waning_crescent_moon:　Java Code Coverage for Eclipse IDE                       public            Jun  7, 2023
+eclipse/keyple-distributed-remote-java-lib                    Eclipse Keyple™ Project: distributed remote plugin API for end users             public            Jun  6, 2023
+eclipse/keyple-plugin-stub-java-lib                           Eclipse Keyple™ Project: stub plugin API for end users                           public            Jun  6, 2023
+eclipse/keyple-plugin-android-omapi-java-lib                  Eclipse Keyple™ Project: Android OMAPI plugin API for end users                  public            Jun  6, 2023
+eclipse/keyple-plugin-android-nfc-java-lib                    Eclipse Keyple™ Project: Android NFC plugin library for end users                public            Jun  6, 2023
+eclipse/keyple-plugin-cardresource-java-lib                   Eclipse Keyple™ Project: Card Resource plugin lib for end users                  public            Jun  6, 2023
+eclipse/keyple-plugin-java-api                                Eclipse Keyple™ Project - Java implementation: API for plugin developers         public            Jun  6, 2023
+eclipse/keyple-distributed-network-java-lib                   Eclipse Keyple™ Project: distributed network API for end users                   public            Jun  6, 2023
+eclipse/keyple-distributed-local-java-lib                     Eclipse Keyple™ Project: distributed local service API for end users             public            Jun  6, 2023
+eclipse/keyple-distributed-local-java-api                     Eclipse Keyple™ Project: API for distributed local service developers            public            Jun  6, 2023
+eclipse/keyple-common-java-api                                Eclipse Keyple™ Project: common API for all modules                              public            Jun  6, 2023
+eclipse/keyple-distributed-remote-java-api                    Eclipse Keyple™ Project: API for distributed remote plugin developers            public            Jun  6, 2023
+eclipse/keyple-cpp-example                                    Eclipse Keyple™ Project: use case examples of the Keyple C++ components for ...  public            Jun  5, 2023
+eclipse/sisu.inject                                           Sisu Inject                                                                      public            Jun  3, 2023
+eclipse/eclipsefuro                                           Eclipse Furo offers simple, enterprise-tailored, language-independent API de...  public            Jun  2, 2023
+eclipse/nebula                                                Nebula Project                                                                   public            May 30, 2023
+eclipse/ecf-website                                                                                                                            public            May 29, 2023
+eclipse/poosl                                                 Poosl project.                                                                   public            May 26, 2023
+eclipse/keyple-integration-java-test                          Eclipse Keyple™ Project: java integration tests / internal to the project        public            May 23, 2023
+eclipse/sisu.mojos                                            Sisu Mojos                                                                       public            May 21, 2023
+eclipse/eclipsefuro-web                                       Enterprise ready set of web components which work best with Eclipse Furo. Co...  public            May 18, 2023
+eclipse/streamsheets                                          An open-source tool for processing stream data using a spreadsheet-like inte...  public            May 17, 2023
+eclipse/paho.mqtt.java                                        Eclipse Paho Java MQTT client library. Paho is an Eclipse IoT project.           public            May 17, 2023
+eclipse/amalgam                                                                                                                                public            May 10, 2023
+eclipse/org.eclipse.emf.diffmerge.patterns                                                                                                     public            May  5, 2023
+eclipse/org.eclipse.emf.diffmerge.coevolution                                                                                                  public            May  5, 2023
+eclipse/gemini.management-website                                                                                                              public            May  4, 2023
+eclipse/xsemantics                                            Xsemantics is a DSL (implemented in Xtext itself) for writing type systems, ...  public            May  3, 2023
+eclipse/keyple-java-example                                   Eclipse Keyple™ Project: use case examples of the Keyple Java components for...  public            Apr 27, 2023
+eclipse/hara-ddiclient                                        Hara-ddiclient is a Kotlin library that facilitates and speeds up the develo...  public            Apr 26, 2023
+eclipse/elk-models                                            Eclipse Layout Kernel - Test models                                              public            Apr 21, 2023
+eclipse/xtext-gradle                                          xtext-gradle                                                                     public, archived  Apr 21, 2023
+eclipse/xtext-core                                            xtext-core                                                                       public, archived  Apr 20, 2023
+eclipse/xtext-umbrella                                                                                                                         public, archived  Apr 20, 2023
+eclipse/xtext-maven                                           xtext-maven                                                                      public, archived  Apr 20, 2023
+eclipse/xtext-web                                             xtext-web                                                                        public, archived  Apr 20, 2023
+eclipse/xtext-xtend                                           xtext-xtend                                                                      public, archived  Apr 20, 2023
+eclipse/xtext-eclipse                                         xtext-eclipse                                                                    public, archived  Apr 20, 2023
+eclipse/xtext-extras                                          xtext-extras                                                                     public, archived  Apr 20, 2023
+eclipse/xtext-lib                                             Eclipse Xtext™ Libraries                                                         public, archived  Apr 20, 2023
+eclipse/xtext-archive                                                                                                                          public            Apr 20, 2023
+eclipse/vorto                                                 Vorto Project                                                                    public            Apr 16, 2023
+eclipse/paho.mqtt.testing                                     An Eclipse Paho project - a Python broker for testing                            public            Apr 13, 2023
+eclipse/oneofour                                              oneofour                                                                         public            Apr  8, 2023
+eclipse/jbom                                                                                                                                   public            Apr  7, 2023
+eclipse/iottestware.dashboard                                 iottestware dashboard                                                            public            Apr  1, 2023
+eclipse/kiso-testing-python-uds                               kiso-testing-python-uds                                                          public            Mar 30, 2023
+eclipse/nebula-website                                                                                                                         public            Mar  7, 2023
+eclipse/capella-vpms                                          Enrich the capabilities regarding the definition of Capella Modes & States a...  public            Mar  6, 2023
+eclipse/capella-tools                                                                                                                          public            Mar  2, 2023
+eclipse/capella-requirements-vp                               This add-on allows importing a set of requirements from a ReqIF file             public            Mar  2, 2023
+eclipse/capella-releng-parent                                 capella-releng-parent                                                            public            Feb 14, 2023
+eclipse/upm                                                   UPM is a high level repository that provides software drivers for a wide var...  public            Jan 29, 2023
+eclipse/.github                                               Community Health files                                                           public            Jan 18, 2023
+eclipse/capella-cybersecurity                                 Darc Viewpoint (Cybersecurity Assets & Threats Modeling analysis)                public            Jan 11, 2023
+eclipse/kuksa.hardware                                                                                                                         public            Jan 11, 2023
+eclipse/che-theia-samples                                                                                                                      public, archived  Jan  7, 2023
+eclipse/n4js-tutorials                                        n4js-tutorials                                                                   public            Jan  7, 2023
+eclipse/gmf-runtime-website                                                                                                                    public            Jan  4, 2023
+eclipse/diafanis                                              Diafanis project                                                                 public            Jan  4, 2023
+eclipse/mosquitto.rsmb                                        Mosquitto rsmb                                                                   public            Dec 22, 2022
+eclipse/theia-plugin-packager                                                                                                                  public            Dec  9, 2022
+eclipse/gemini.blueprint                                                                                                                       public            Dec  7, 2022
+eclipse/theia-generator-plugin                                                                                                                 public            Dec  3, 2022
+eclipse/theia-yeoman-plugin                                                                                                                    public            Dec  3, 2022
+eclipse/january-website                                                                                                                        public            Nov 29, 2022
+eclipse/capella-deferred-merge                                Capella addon allowing to create patchset of model comparisons                   public            Nov 28, 2022
+eclipse/gemini.blueprint-website                                                                                                               public            Nov 25, 2022
+eclipse/n4js-website                                                                                                                           public            Nov 23, 2022
+eclipse/texlipse                                              Eclipse Texlipse                                                                 public            Nov 18, 2022
+eclipse/orion.client                                          The Orion Client, "Your IDE in the Cloud"                                        public            Nov 16, 2022
+eclipse/kiso-testing-testapp                                                                                                                   public            Nov 16, 2022
+eclipse/unide                                                                                                                                  public            Nov 16, 2022
+eclipse/kuksa.apps                                            Kuksa Apps repo                                                                  public, archived  Nov  9, 2022
+eclipse/kuksa.ide                                             Kuksa IDE repo                                                                   public, archived  Nov  9, 2022
+eclipse/kuksa.invehicle                                       Kuksa Invehicle repo                                                             public, archived  Nov  9, 2022
+eclipse/omr-website-publish                                                                                                                    public            Oct 27, 2022
+eclipse/tools-website                                                                                                                          public            Oct 25, 2022
+eclipse/rcptt-website                                                                                                                          public            Oct 24, 2022
+eclipse/sisu-website                                                                                                                           public            Oct 13, 2022
+eclipse/paho-website                                                                                                                           public            Oct 12, 2022
+eclipse/vorto-website                                                                                                                          public            Oct  7, 2022
+eclipse/amlen-website                                                                                                                          public            Oct  7, 2022
+eclipse/paho.mqtt-spy                                         mqtt-spy is an open source desktop & command line utility intended to help y...  public            Oct  4, 2022
+eclipse/ice                                                   This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice            public            Oct  4, 2022
+eclipse/iottestware.coap                                      iottestware.coap                                                                 public            Sep 22, 2022
+eclipse/kuksa.cloud                                           Kuksa Cloud repo                                                                 public            Sep 15, 2022
+eclipse/kitalpha-website                                                                                                                       public            Sep 14, 2022
+eclipse/gef                                                   Eclipse GEF™                                                                     public            Sep 12, 2022
+eclipse/wakaama-website                                                                                                                        public            Sep  9, 2022
+eclipse/modisco-website                                                                                                                        public            Sep  6, 2022
+eclipse/viatra-website                                                                                                                         public            Sep  2, 2022
+eclipse/capella-textual-editor                                This addon allows to edit Capella Scenario within a textual editor               public            Aug 16, 2022
+eclipse/paho.mqtt.javascript                                  paho.mqtt.javascript                                                             public            Aug 15, 2022
+eclipse/emf-query                                                                                                                              public            Aug 14, 2022
+eclipse/kitalpha-addons                                                                                                                        public            Aug  5, 2022
+eclipse/paho.mqtt.m2mqtt                                                                                                                       public            Jul 12, 2022
+eclipse/sommr-website                                         Automotive sommr project website.                                                public            Jul  8, 2022
+eclipse/sommr                                                 Automotive sommr project                                                         public            Jul  8, 2022
+eclipse/adaaa                                                 Adaptive Cruise Control Demo Application for Adaptive AUTOSAR                    public            Jun 21, 2022
+eclipse/lyo.docs                                              Lyo project repository (lyo.docs)                                                public            May 17, 2022
+eclipse/lyo.ldp                                               lyo.ldp                                                                          public, archived  May  9, 2022
+eclipse/smartmdsd                                             Smartmdsd project                                                                public            Apr  4, 2022
+eclipse/iottestware.fuzzing                                                                                                                    public            Mar 29, 2022
+eclipse/january                                               January project                                                                  public            Feb 25, 2022
+eclipse/lyo.rio                                               Lyo project repository (lyo.rio)                                                 public, archived  Feb 15, 2022
+eclipse/gemoc-studio-extras                                                                                                                    public            Feb  7, 2022
+eclipse/kiso-testing-vscode                                                                                                                    public            Jan 31, 2022
+eclipse/org.eclipse.sensinact.studio                                                                                                           public            Jan 28, 2022
+eclipse/org.eclipse.sensinact.studioweb                                                                                                        public            Nov 30, 2021
+eclipse/org.eclipse.sensinact                                                                                                                  public            Nov 30, 2021
+eclipse/lyo.validation                                        lyo validation                                                                   public, archived  Sep 20, 2021
+eclipse/lyo.core                                              Lyo project repository (lyo.core)                                                public, archived  Sep 20, 2021
+eclipse/iottestware                                                                                                                            public            Sep 15, 2021
+eclipse/orion.server                                          The Orion Java Server, "Your IDE in the Cloud"                                   public            Sep  7, 2021
+eclipse/mita                                                  mita                                                                             public            Aug 25, 2021
+eclipse/lyo.trs-server                                                                                                                         public, archived  Aug 21, 2021
+eclipse/lyo.server                                            Lyo project repository (lyo.server)                                              public, archived  Aug 21, 2021
+eclipse/lyo.trs-client                                                                                                                         public, archived  Aug 21, 2021
+eclipse/dirigible-samples                                                                                                                      public            Aug 19, 2021
+eclipse/org.eclipse.emf.diffmerge.patch                       DEPRECATED/ARCHIVED                                                              public            Aug  9, 2021
+eclipse/hawkbit-clients-golang                                Golang Client SDK for the Eclipse hawkBit Project                                public            Jul 20, 2021
+eclipse/keyple-ops                                            Eclipse Keyple™ Project: Ops settings                                            public            Jul  1, 2021
+eclipse/lyo.store                                             lyo-store                                                                        public, archived  Jun  4, 2021
+eclipse/lyo.client                                            Lyo project repository (lyo.client)                                              public, archived  May 17, 2021
+eclipse/dash-website                                          Project Dash is a place where the community itself can collaborate on tools ...  public, archived  Apr 27, 2021
+eclipse/titan.ProtocolModules.JSON_Web_Signature              titan.ProtocolModules.JSON_Web_Signature                                         public            Apr 20, 2021
+eclipse/titan.Libraries.TCCUsefulFunctions                    Titan Libraries TCCUsefulFunctions                                               public            Apr 20, 2021
+eclipse/titan.ProtocolModules.HTTP2.0                         Titan ProtocolModules HTTP2.0                                                    public            Apr 20, 2021
+eclipse/titan.ProtocolModules.WebSocket                       Titan ProtocolModules WebSocket                                                  public            Apr 20, 2021
+eclipse/titan.ProtocolModules.SRTP                            Titan ProtocolModules SRTP                                                       public            Apr 20, 2021
+
