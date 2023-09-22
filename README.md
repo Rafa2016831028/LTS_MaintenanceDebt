@@ -21,7 +21,10 @@ The pipeline of analysis is described in the following picture:
     - pip3 install GitPython 
     - brew install gh
 
-
+# Research Question
+1. Are the effort of safeguarding the releases prone to introducing quality debt to the target release?
+2. How does quality debt evolve in release lifecycle?
+3. When and why do developers induce new technical debt in LTS support?
 
 # Links
 ![Github 2017 survey](https://opensourcesurvey.org/2017/)
