@@ -1,0 +1,122 @@
+android/platform-samples	A collection of samples of different Android OS platform APIs.	public	2023-09-26T17:42:36Z
+android/nowinandroid	A fully functional Android app built entirely with Kotlin and Jetpack Compose	public	2023-09-26T14:03:55Z
+android/gradle-declarative		public	2023-09-25T21:23:48Z
+android/cose-lib		public	2023-09-25T18:46:49Z
+android/kotlin-multiplatform-samples	Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries	public	2023-09-25T17:56:01Z
+android/performance-samples	Samples to show APIs and best practices in Performance on Android	public	2023-09-25T15:47:35Z
+android/codelab-android-compose		public	2023-09-25T14:44:16Z
+android/wear-os-samples	Multiple samples showing best practices in app and watch face development on Wear OS.	public	2023-09-25T12:39:31Z
+android/architecture-samples	A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.	public	2023-09-25T01:55:26Z
+android/health-samples		public	2023-09-23T02:06:41Z
+android/compose-samples	Official Jetpack Compose samples.	public	2023-09-22T21:21:14Z
+android/android-test	An extensive framework for testing Android apps	public	2023-09-22T18:28:36Z
+android/gradle-recipes	Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.	public	2023-09-22T16:52:37Z
+android/snippets	Main repository for snippets surfaced on developer.android.com.	public	2023-09-21T12:37:09Z
+android/tv-samples	Multiple samples showing best practices in app development on Android TV.	public	2023-09-21T09:48:23Z
+android/architecture-templates		public	2023-09-20T19:41:48Z
+android/large-screen-codelabs		public	2023-09-20T15:12:01Z
+android/architecture-components-samples	Samples for Android Architecture Components.	public	2023-09-20T02:14:17Z
+android/ndk	The Android Native Development Kit	public	2023-09-18T21:01:06Z
+android/privacy-sandbox-samples		public	2023-09-18T16:59:01Z
+android/android.github.io		public	2023-09-15T21:03:58Z
+android/testing-samples	A collection of samples demonstrating different frameworks and techniques for automated testing	public	2023-09-15T18:26:58Z
+android/sunflower	A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.	public	2023-09-15T09:29:55Z
+android/uamp	A sample audio app for Android	public	2023-09-14T10:59:42Z
+android/input-samples	Multiple samples showing the best practices in input on Android.	public	2023-09-13T17:51:50Z
+android/android-health-connect-codelab		public	2023-09-13T16:33:09Z
+android/storage-samples	Multiple samples showing the best practices in storage APIs on Android.	public	2023-09-02T14:44:02Z
+android/search-samples	Multiple samples demonstrating Search API usage in Android.	public	2023-08-30T18:50:51Z
+android/play-billing-samples	Samples for Google Play In-app Billing	public	2023-08-29T00:56:38Z
+android/renderscript-samples	Multiple samples showing renderscript best practices in Android.	public	2023-08-28T21:54:28Z
+android/identity-samples	Multiple samples showing the best practices in identity on Android.	public	2023-08-28T20:46:32Z
+android/connectivity-samples	Multiple samples showing the best practices in connectivity on Android.	public	2023-08-23T13:50:17Z
+android/location-samples	Multiple samples showing the best practices in location APIs on Android.	public, archived	2023-08-23T08:46:50Z
+android/games-samples	A collection of samples to discuss and showcase games in Android apps.	public	2023-08-22T17:57:04Z
+android/user-interface-samples	Multiple samples showing the best practices in the user interface on Android.	public	2023-08-22T04:52:30Z
+android/codelab-compose-for-wear-os	Learn how you can apply your knowledge of Compose to Wear OS	public	2023-08-09T17:21:01Z
+android/ndk-samples	Android NDK samples with Android Studio	public	2023-08-04T21:20:12Z
+android/enterprise-samples	Multiple samples showing the best practices in enterprise on Android.	public	2023-08-03T14:18:11Z
+android/camera-samples	Multiple samples showing the best practices in camera APIs on Android.	public	2023-07-31T17:34:02Z
+android/codelab-fido2		public	2023-07-31T02:13:06Z
+android/codelab-android-sleep		public	2023-07-26T17:03:37Z
+android/codelab-android-room-with-a-view		public	2023-07-03T17:50:56Z
+android/adpf-game-adaptability-codelab		public	2023-07-03T02:06:48Z
+android/codelab-android-datastore		public	2023-06-26T03:55:57Z
+android/codelab-android-performance		public	2023-06-22T08:41:43Z
+android/security-samples	Multiple samples showing the best practices in security APIs on Android.	public	2023-06-17T12:55:04Z
+android/tv-codelabs	Topic repo for Android TV codelabs	public	2023-06-08T02:02:30Z
+android/rr	Android mirror of the rr debugger.	public	2023-06-02T09:18:47Z
+android/people-messaging-codelab		public	2023-05-18T22:18:59Z
+android/views-widgets-samples	Multiple samples showing the best practices in views-widgets on Android.	public	2023-05-17T10:58:30Z
+android/codelab-exoplayer-intro	Media Streaming with ExoPlayer codelab	public	2023-05-10T17:01:50Z
+android/add-play-integrity-codelab	Code for the Add Play Integrity Codelab	public	2023-05-09T20:03:40Z
+android/permissions-samples	Multiple samples showing the best practices in permissions on Android.	public, archived	2023-05-09T16:49:20Z
+android/privacy-codelab		public	2023-05-03T21:18:06Z
+android/car-codelabs		public	2023-05-01T20:35:47Z
+android/security-certification-resources	Android Certification Tools	public	2023-04-26T21:23:56Z
+android/codelab-android-paging	Jetpack Paging codelab	public	2023-04-22T11:39:07Z
+android/car-samples	Multiple samples showing best practices for car app development on both Android Auto and Android Automotive OS.	public	2023-04-19T19:38:55Z
+android/midi-samples	Samples showing best practices for MIDI on Android.	public	2023-04-12T23:58:04Z
+android/deep-links		public	2023-04-11T22:10:31Z
+android/codelab-java-friendly-kotlin		public	2023-04-10T04:32:21Z
+android/codelab-android-dagger		public	2023-03-31T14:47:39Z
+android/animation-samples	Multiple samples showing the best practices in animation on Android.	public	2023-03-27T07:48:00Z
+android/app-bundle-samples	Multiple samples showing the best practices in app bundles on Android.	public	2023-03-22T14:18:06Z
+android/app-actions-samples	Samples demonstrating the use of App Actions	public	2023-03-16T03:05:01Z
+android/graphics-samples	Multiple samples showing the best practices in graphics on Android.	public	2023-03-15T01:28:57Z
+android/media-samples	Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).	public	2023-03-09T18:29:20Z
+android/databinding-samples		public	2023-03-06T16:45:50Z
+android/tuningfork	Android Performance Tuner is a library to help developers measure frame rendering time across different devices and game stages. This plugin will help developers integrate Android Performance Tuner into their game.	public	2023-02-17T11:12:44Z
+android/codelab-handling-back-navigation		public	2023-01-19T17:22:42Z
+android/android-studio-poet	Large Android projects generator	public	2022-12-15T14:22:20Z
+android/renderscript-intrinsics-replacement-toolkit		public	2022-12-14T12:45:15Z
+android/.allstar		public	2022-12-06T23:02:41Z
+android/codelab-android-accessibility	Basic Android Accessibility: making sure everyone can use what you create!	public	2022-11-22T18:14:14Z
+android/project-replicator	This project contains a Gradle plugin and a small command-line app that allows replicating the structure of a given Gradle project.	public	2022-11-03T16:19:17Z
+android/trackr		public	2022-11-01T17:34:37Z
+android/codelab-android-camera2-preview		public	2022-10-27T09:25:23Z
+android/android-dev-challenge-compose	Template repository for the ADS22 Speed Challenge	public	2022-10-25T16:56:16Z
+android/codelab-android-hilt		public	2022-10-06T09:20:34Z
+android/codelab-wear-tiles		public	2022-09-07T13:55:45Z
+android/codelab-android-workmanager		public	2022-09-02T23:04:22Z
+android/codelab-cronet-basics	This repository contains the starting point and solution to the Cronet Basics Android codelab.	public	2022-06-29T15:53:57Z
+android/codelab-android-wavemaker	Sample app which accompanies the "Making Waves" codelab - Part 1 Build a Synthesizer	public, archived	2022-04-19T14:55:27Z
+android/add-adaptive-layouts		public	2022-04-18T11:31:47Z
+android/codelab-while-in-use-location	Codelab:	public, archived	2022-04-13T16:33:35Z
+android/codelab-kotlin-coroutines	Kotlin Coroutines codelab	public, archived	2022-04-07T00:39:16Z
+android/codelab-slices-basic-codelab		public, archived	2022-04-06T21:50:03Z
+android/codelab-android-people		public, archived	2022-03-13T13:39:07Z
+android/neural-networks-samples		public	2022-03-09T19:59:17Z
+android/codelab-activity_transitionapi	Codelab walks you through tracking activity transition changes (start/stop run, walk, idle, drive, etc.).	public, archived	2022-03-09T18:32:02Z
+android/codelab-android-dagger-to-hilt		public, archived	2022-03-08T00:48:17Z
+android/codelab-android-gestural-navigation		public, archived	2022-03-07T20:57:29Z
+android/codelab-android-lifecycles		public, archived	2022-02-16T00:58:09Z
+android/codelab-android-navigation		public, archived	2022-02-16T00:19:04Z
+android/codelab-constraint-layout	Constraint Layout Codelab	public, archived	2022-02-13T10:45:16Z
+android/codelab-android-databinding		public, archived	2022-02-10T10:06:56Z
+android/codelab-biometric-login		public, archived	2022-02-05T00:21:27Z
+android/codelab-android-wavemaker2	The Making Waves Part 2 codelab shows you how to build a low latency, touch controlled sampler app using the AAudio API in Android O.	public, archived	2022-02-01T19:07:17Z
+android/codelab-android-foldable		public, archived	2022-01-26T18:14:29Z
+android/codelab-android-direct-share		public, archived	2022-01-20T08:09:55Z
+android/codelab-android-network-security-config	Android Network Security Configuration codelab	public, archived	2022-01-13T22:53:34Z
+android/codelab-android-dynamic-features		public	2022-01-11T14:43:50Z
+android/codelab-complications-data-source	Exposing data to watch face Complications on Android Wear	public, archived	2021-12-01T20:28:40Z
+android/packager-manager-samples	Multiple samples demonstrating Package Manager in Android.	public	2021-11-22T22:31:48Z
+android/codelab-ongoing-activity		public	2021-11-19T21:36:38Z
+android/remote-provisioning-cbor		public	2021-11-10T21:32:27Z
+android/codelab-android-stamp-collector-app		public, archived	2021-10-11T16:21:56Z
+android/codelab-permissions		public, archived	2021-08-25T00:17:15Z
+android/codelab-watchnext-for-movie-tv-episodes		public, archived	2021-05-18T17:17:53Z
+android/codelab-tv-recommendations-kotlin		public, archived	2021-04-22T09:45:28Z
+android/codelab-mlkit-android		public	2021-03-25T00:55:54Z
+android/fit-samples	Multiple samples showing the best practices using the Fit APIs on Android.	public	2021-01-26T16:29:38Z
+android/topeka	A fun to play quiz that showcases material design on Android	public, archived	2021-01-22T21:31:15Z
+android/sensors-samples	Multiple samples showing the best practices in sensors on Android.	public	2020-09-29T01:49:32Z
+android/kotlin	Kotlin Symbol Processing API	public, fork, archived	2020-09-15T06:08:55Z
+android/.github	Repo hosting default community health files.	public	2020-03-14T18:02:31Z
+android/codelab-android-backup		public, archived	2019-11-08T19:08:23Z
+android/codelab-android-using-kotlin		public, archived	2019-06-25T11:17:24Z
+android/xAnd11		public	2019-01-18T01:43:41Z
+android/android-ktx	A set of Kotlin extensions for Android app development.	public, archived	2018-11-13T20:24:58Z
+android/kotlin-guides	A set of guides for writing Kotlin for Android.	public, archived	2018-10-16T15:24:07Z
+android/KEEP	Kotlin Evolution and Enhancement Process	public, fork, archived	2018-05-15T19:28:19Z
