@@ -1,0 +1,18 @@
+https://api.github.com/repos/eclipse/microprofile-metrics,395,master-issue-394::master,0,merged,,Jan Martiska,937315,35,1,18,3,1,0,8f9587e6366d9165b5c98837ede6d86a1c651d1a::
+https://api.github.com/repos/eclipse/microprofile-metrics,400,2.0.x-issue-394::2.0.x,0,merged,,Jan Martiska,937315,35,1,18,3,1,0,22223950a2a468e3e3943208233414519fe89241::
+https://api.github.com/repos/eclipse/microprofile-metrics,402,2.0.x-issue-161::2.0.x,0,merged,,Jan Martiska,937315,35,1,6,6,1,0,754166ede3c37739728757fedfbc9a5181640d8b::
+https://api.github.com/repos/eclipse/microprofile-metrics,426,2.0.x-rename-test-methods::2.0.x,0,merged,,Jan Martiska,937315,35,1,2,2,2,0,eeb52d7ca22f4ac1706a9cbac60859a20fe2b73b::
+https://api.github.com/repos/eclipse/microprofile-metrics,429,2.0.x-issue-427::2.0.x,0,merged,quarkus-tck-issue::,Jan Martiska,937315,35,1,9,19,2,0,ee68136eab9fcac99fc1d6e31d579d1f858f4194::
+https://api.github.com/repos/eclipse/microprofile-metrics,432,2.0.x-issue-430::2.0.x,0,merged,quarkus-tck-issue::,Jan Martiska,937315,35,1,1,18,1,0,70365621645725d3350549ca6f277b928b350292::
+https://api.github.com/repos/eclipse/microprofile-metrics,433,2.0.x-issue-424::2.0.x,0,closed,DO NOT MERGE::quarkus-tck-issue::,Jan Martiska,937315,35,1,41,4,6,0,51bdab9a8b0dc2d034cfb8e674d7c472747b1865::
+https://api.github.com/repos/eclipse/microprofile-metrics,441,2.0.x-issue-439::2.0.x,0,merged,,Jan Martiska,937315,35,1,19,5,1,0,5157be83b740e6a9e1c9a0c4d26b8867146479cb::
+https://api.github.com/repos/eclipse/microprofile-metrics,446,2.1.x-issue-439::2.1.x,0,merged,,Jan Martiska,937315,35,1,20,4,1,0,f9d210c15147853906c86cd8af31f45f061cadb1::
+https://api.github.com/repos/eclipse/microprofile-metrics,447,2.1.x-port-pr-436::2.1.x,0,merged,,Jan Martiska,937315,35,1,5,5,1,0,9610efa40d54360515760ae752135e6bc87d8d71::
+https://api.github.com/repos/eclipse/microprofile-metrics,468,2.1.x-Issue454::2.1.x,0,merged,,Yushan Lin,31770221,3,4,15,0,3,0,f1030fc9c2bfe437ad3ca43b8e64cff07a52708c::7309ba247fa8d2c752b5c2acd5b8cd767590ec26::72719e6d8d49a90c9ca5d8f61f016459f0440269::00923601fbd6769b9794ce286174956e590f93f0::
+https://api.github.com/repos/eclipse/microprofile-metrics,469,2.0.x-Issue454::2.0.x,0,merged,,Yushan Lin,31770221,3,3,14,0,3,0,4112b8e3a4996c4acd64fdd2f63633acf212927d::d3c1517dcb3ed405900777dcae880443542eea4e::2bc5e37ac001f7dc9cd92ab6e7079403dca97800::
+https://api.github.com/repos/eclipse/microprofile-metrics,539,2.3.x-issue-537::2.3.x,0,merged,,Jan Martiska,937315,35,1,4,3,1,0,391e1c59cd46ad90d5a26c1f2f0ef1c97e1ca07a::
+https://api.github.com/repos/eclipse/microprofile-metrics,603,2.3.x-issue-601::2.3.x,0,merged,,Jan Martiska,937315,35,1,13,240,3,0,a0ecaff981e2966cb08139892083ae18e39c4c3b::
+https://api.github.com/repos/eclipse/microprofile-metrics,630,619-rateTCKAdjust23x::2.3.x,0,merged,,David Chan,2858176,2,1,6,6,3,0,d7b06297568e74eb3682e36507fad16b71c75c78::
+https://api.github.com/repos/eclipse/microprofile-metrics,631,619-rateTCKAdjust22x::2.2.x,0,merged,,David Chan,2858176,2,2,13,13,8,0,8736c9e5c9cfcb9b425b5558d4184d12d189b6f2::ba94733054d18a7187dadd0a3cfeb480e37c4e06::
+https://api.github.com/repos/eclipse/microprofile-metrics,632,619-rateTCKAdjust20x::2.0.x,0,merged,,David Chan,2858176,2,4,25,17,9,0,750c982dde943554fbf67846a83174c239217507::00ec5bba70490bb40c57a37e54d7076069e69e89::51529d046e01f49a54219923896249a6be1a0f04::1c4842ee1fb97f6bc84fd8c266903facea96865a::
+https://api.github.com/repos/eclipse/microprofile-metrics,633,619-rateTCKAdjust11x::branch-1.1,0,merged,,David Chan,2858176,2,1,6,6,3,0,2dc74cd11c43cf140dc5fc7cbf0a72928dd8592d::

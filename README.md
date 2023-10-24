@@ -17,9 +17,12 @@ The pipeline of analysis is described in the following picture:
 
 # Required packages
     - pip/pip3 install PyGithub
+    - pip install numpy
+    - pip install matplotlib
     - pip3 install pytz
     - pip3 install GitPython 
     - brew install gh
+    - sudo apt-get install python3-tk
 
 # Research Question
 1. Are the effort of safeguarding the releases prone to introducing quality debt to the target release?
