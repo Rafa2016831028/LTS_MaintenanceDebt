@@ -66,8 +66,8 @@ def get_commit_code_fromGH(Rcsvpath = 'Project_link.csv', code_path = "Demo", re
                    
 # get_commit_code_fromGH('projectWise_data_from_github/Ansible_backport_in_TitleandLabes_PRs.csv',
 #  'data_code')
-# get_commit_code_fromGH('projectWise_data_from_github/CPython/stable-3.9.csv',
-#  'data_code_stable', release="stable-3.9")
+get_commit_code_fromGH('projectWise_data_from_github/CPython/stable-3.9.csv',
+ 'data_code_stable', release="stable-3.9")
 
 def get_allkinds_pull_requests_fromGHWithCLI(prjectlist = 'p_list.csv', output_file='complete', output_file_W_L ='complete_WL', output_file_wo_L ='complete_WOL', output_file_backport = 'complete_backport', output_file_cherry = 'complete_cherry_pick', output_file_normal='complete_normal'):
     file_path = 'Data/test/Candidate.csv'
@@ -189,10 +189,10 @@ def get_allkinds_pull_requests_fromGHWithCLI(prjectlist = 'p_list.csv', output_f
         writernormal = csv.writer(fp6, delimiter=",")
         writernormal.writerows(data_read_write_with_normalPR)
 
-get_allkinds_pull_requests_fromGHWithCLI('Candidate.csv', 
-'kura_all_PRs.csv', 
-'kura_keywordsPRs.csv',
-'kura_in_Discussion_OnlyPRs.csv', 
-'kura_backport_in_TitleandLabes_PRs.csv',
-'kura_cherry_in_keyword_Discussion_TitleandLabel.csv' 
-'kura_normal_PRs.csv')
+# get_allkinds_pull_requests_fromGHWithCLI('Candidate.csv', 
+# 'kura_all_PRs.csv', 
+# 'kura_keywordsPRs.csv',
+# 'kura_in_Discussion_OnlyPRs.csv', 
+# 'kura_backport_in_TitleandLabes_PRs.csv',
+# 'kura_cherry_in_keyword_Discussion_TitleandLabel.csv' 
+# 'kura_normal_PRs.csv')

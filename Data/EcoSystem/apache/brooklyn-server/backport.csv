@@ -1,0 +1,5 @@
+https://api.github.com/repos/apache/brooklyn-server,753,jclouds-2.0.2::master,0,merged,,Svet,3612111,31,1,1,1,1,0,247baa01ae64688dedd710cecf89ef75a5f97fca::
+https://api.github.com/repos/apache/brooklyn-server,588,backport-584-to-0.10.x::0.10.x,0,merged,,Alasdair Hodge,837473,12,3,81,18,5,0,33b50859ba875b8929f28f3baeea3bbc4d39993c::d72a54b43f6a203378edd519f352767fdfc21b80::6a8cb94230c8b995e16dd80c130324eac677a84a::
+https://api.github.com/repos/apache/brooklyn-server,587,backport-584-to-0.9.x::0.9.x,0,merged,,Alasdair Hodge,837473,12,3,81,18,5,0,027e4f0efe50ee53ca2e40db646e4d1319d43d18::508fcd4866cd5e07291ebc433112760f313d1eca::02643febfff375d05c49d68cc31a9283c8d66dc3::
+https://api.github.com/repos/apache/brooklyn-server,583,generalised-entities-wait-for::0.9.x,0,closed,,Alasdair Hodge,837473,12,2,66,19,4,0,44d7133acb852bb42895c08ff6bcd91def1eaa51::fc8ec90542224c6b0b41c490a8a81b6f7b188dfd::
+https://api.github.com/repos/apache/brooklyn-server,128,fix/ImageChooser-configurable-0.9.x::0.9.x,0,closed,,Aled Sage,593113,23,2,116,15,3,0,d8d00d88077be5e784a5f2f0f6368d0cc7e4b8ab::0d90f5a1f53416be0059429bf673c01756d80b83::

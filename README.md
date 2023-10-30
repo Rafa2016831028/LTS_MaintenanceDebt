@@ -37,3 +37,8 @@ The pipeline of analysis is described in the following picture:
  
  # Data retrieve
  - gh repo list eclipse -L 300 > eclipse.csv
+
+ # Some 
+ Get the list of projects inside apache dir
+ 
+ - ls -l apache | grep "^d" | wc -l

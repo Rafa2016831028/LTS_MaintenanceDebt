@@ -1,0 +1,39 @@
+https://api.github.com/repos/apache/storm,2782,STORM-3164-1.x-branch::1.x-branch,0,merged,,Mal Graty,591257,22,1,8,8,1,0,9394f82f6da85fac89e52ce50073cf337bb52990::
+https://api.github.com/repos/apache/storm,2781,STORM-3163-1.x-branch::1.x-branch,0,closed,,Mal Graty,591257,22,1,1,1,1,0,cb008f89502b3891d2c23f534fd7d6bb81fc0e83::
+https://api.github.com/repos/apache/storm,2653,detach-kafka-client::master,0,closed,,Stig Døssing,4324588,13,2,226,53,15,0,46b72a3960b73f1cf80096222d7e7710416b1b43::111e7a1db6066f8b49f26fa8f5cba30075dfee25::
+https://api.github.com/repos/apache/storm,2550,STORM-2937::1.0.x-branch,0,merged,,Erik Weathers,1111441,28,6,9323,1634,101,0,e16fa19f21ec0288f915fbd7f0730821cdb318a4::1312d69a0ffb01335d1b8842b8c2ba7b8268e3e6::4492b3e282574c18074baa374bfbab042835d27d::6d92df30d9d47ac5996009146683afa9ee83122e::29fc006d379c055fc69c65be47de8e4229987d6a::72fb41705dbb5a4709aabf1ed4ac53f0eca6284a::
+https://api.github.com/repos/apache/storm,2547,STORM-2913-2914-1.x::1.x-branch,0,merged,,Stig Døssing,4324588,13,2,361,209,7,0,b56c30db45337242b194f1b0217d168d6ee2b733::03915f0aefa49c3115e9b66ec3f98b0914dc9433::
+https://api.github.com/repos/apache/storm,2536,STORM-2877-1.x::1.x-branch,0,merged,,Srishty Agrawal,564198,5,1,106,94,5,0,075f9e1666eac72534ba7fdf4fff718fd52b4c3d::
+https://api.github.com/repos/apache/storm,2535,STORM-2877-1.0.x::1.0.x-branch,0,merged,,Srishty Agrawal,564198,5,1,105,93,5,0,70e111204227b351132a2924d72800a598147017::
+https://api.github.com/repos/apache/storm,2472,STORM-2690__1.x-branch::1.x-branch,0,merged,,Erik Weathers,1111441,28,1,2,1,2,0,a884c6f2e7df01edc4fcaa7d1b392f09f4ff3c2a::
+https://api.github.com/repos/apache/storm,2471,STORM-2690__1.1.x-branch::1.1.x-branch,0,merged,,Erik Weathers,1111441,28,1,2,1,2,0,a4215f37a41030b96ce57338ff23aede12131ccd::
+https://api.github.com/repos/apache/storm,2470,STORM-2690__1.0.x-branch::1.0.x-branch,0,merged,,Erik Weathers,1111441,28,1,2,1,2,0,a21dcf6c16f794e1ac1287b9fcd3b4e8a9418824::
+https://api.github.com/repos/apache/storm,2300,STORM-2691::master,0,merged,,Stig Døssing,4324588,13,1,807,630,38,0,a20b2659c20b1a12dd455023010f4454d62ee313::
+https://api.github.com/repos/apache/storm,2246,STORM-2663::1.x-branch,0,merged,,Stig Døssing,4324588,13,1,107,1,5,0,3d4a8bcdc09e4369be7b86c071e98ae697b19f1e::
+https://api.github.com/repos/apache/storm,2150,STORM-2541::master,0,merged,,Stig Døssing,4324588,13,1,329,96,8,0,c7b7b896bb0101a1b1b56677b647550b615d515a::
+https://api.github.com/repos/apache/storm,2101,STORM-2191__1.x-branch::1.x-branch,0,merged,,Erik Weathers,1111441,28,3,58,40,7,0,9767255b2627119f14f930f6b39fe5d5e7fd663d::b04011ee8c40b8971592e74e85c18778989bb932::b780df2312835021de4c29c673696cfac7dff767::
+https://api.github.com/repos/apache/storm,2016,STORM-2422::master,0,merged,,Robert (Bobby) Evans,3441321,140,1,60,31,1,0,525f14f64b112cb6e73788a0e97dad56048c876d::
+https://api.github.com/repos/apache/storm,1893,STORM-2325::master,0,merged,,Jungtaek Lim,1317309,242,1,10,5,3,0,ab539770ae4a7ac96335ff90e12a35b735af2cf0::
+https://api.github.com/repos/apache/storm,1856,1.x-branch_PMML_UniqueFields::1.x-branch,0,merged,,,10284328,22,1,3,2,1,0,4c3c4962ea591705c385ee86fff159c09f22ad02::
+https://api.github.com/repos/apache/storm,1826,STORM-2087-1.x::1.x-branch,0,merged,,Stig Døssing,4324588,13,2,416,10,5,0,5c17a59ebf9f5667ccfb2dc0a127044b94a0de86::e47ccecba855889b75da40a3cceb190587552aef::
+https://api.github.com/repos/apache/storm,1718,STORM-2124_show_requested_cpu_mem_for_each_component_1x::1.x-branch,0,merged,,Alessandro Bellina,1901059,11,3,1900,1377,36,0,6839b6baa57c430d8b30ebec2cda465b0e665a57::c8de2fe1ae3d7201dc082dd6e576d8fcf404c185::abc98ad0ebf915562f2d56fdf8e571563bceaa5a::
+https://api.github.com/repos/apache/storm,1695,STORM-2101_compute_executors_npe_in_nimbus_1x::1.x-branch,0,merged,,Alessandro Bellina,1901059,11,1,10,8,1,0,04328319a0aa284e396d7f7419ff881426e6b8f0::
+https://api.github.com/repos/apache/storm,1655,STORM-2067::master,0,merged,,Jungtaek Lim,1317309,242,1,2,2,1,0,743b8e0f88a018c7851be6db2d081d31627d10c8::
+https://api.github.com/repos/apache/storm,1645,0.10.x::0.10.x-branch,0,merged,,Arun Mahadeva Iyer,6792890,25,1,7,21,3,0,e3fa9bfc219c8af4ddbe58675ee7dbaf25936783::
+https://api.github.com/repos/apache/storm,1641,STORM-1994_add_per_worker_components_and_resource_usage_1x::1.x-branch,0,merged,,Alessandro Bellina,1901059,11,1,8820,2361,47,0,0e0bcf27f4b7787cc3e6886ccbcd5dc55daef771::
+https://api.github.com/repos/apache/storm,1621,1.x-STORM-1766::1.x-branch,0,merged,,Boyang Jerry Peng,3613359,55,1,542,176,6,0,d50a2437923f2919fbee130b8e9e86a62a2d9f48::
+https://api.github.com/repos/apache/storm,1620,1.x-STORM-1913::1.x-branch,0,merged,,Kyle Nusbaum,1819836,42,1,171,57,8,0,c5cf73b9078176482d273907c79ca8e9a1e85498::
+https://api.github.com/repos/apache/storm,1517,STORM-1919::master,0,merged,,Jungtaek Lim,1317309,242,1,390,8,7,0,5fefbd10bb6b6dd1ca6f56a07aeeb05fea1072a7::
+https://api.github.com/repos/apache/storm,1486,STORM-1890_ensure_we_refetch_static_resources_after_package_build::master,0,closed,,Alessandro Bellina,1901059,11,1,88,43,10,0,76a5e72e7cbdf9d9b32f5683d2bf5054ec0e2291::
+https://api.github.com/repos/apache/storm,1408,1.x-branch::1.x-branch,0,merged,,David Luu,637306,68,1,12,5,1,0,b8e7e4d33a4bf98ee77901a76e554919d0ab2d61::
+https://api.github.com/repos/apache/storm,1407,0.10.x-branch::0.10.x-branch,0,merged,,David Luu,637306,68,1,12,5,1,0,fe11579905f454e14af876f87e3c208431196bee::
+https://api.github.com/repos/apache/storm,1390,STORM-1750-0.10.x::0.10.x-branch,0,merged,,Stig Døssing,4324588,13,2,9,3,2,0,aaf3abf1132db1f22789bd58875367ac75216e37::b66f9071378d556edbb55dce1b864d4f59a07788::
+https://api.github.com/repos/apache/storm,1389,STORM-1750-1.x::1.x-branch,0,merged,,Stig Døssing,4324588,13,2,9,3,2,0,6e4bdbc8cacd7621c570126a5d9e8da9f599d037::a910e29a2616e99b6e6d2ff132d3971428a11a31::
+https://api.github.com/repos/apache/storm,1066,STORM-1518::1.x-branch,0,merged,,Aaron Niskode-Dossett,7207582,12,1,522,6,13,0,ea9abeb2d67402cf82e80adf6498a30a38b3a0a4::
+https://api.github.com/repos/apache/storm,1055,thrift-backport::master,0,merged,,,8295799,7,1,1636,520,38,0,de9cb106f3a68f8b13d16a39b242cecd7e5b0513::
+https://api.github.com/repos/apache/storm,1052,STORM-1504::master,0,merged,,Aaron Niskode-Dossett,7207582,12,2,522,6,13,0,e5ca89b292aa8f7a983b29d610f71313594e32e3::0d3c3477a199e4305566dee5936328e768614cc7::
+https://api.github.com/repos/apache/storm,1042,BLOBSTORE-STORM-1496::master,0,merged,,,8295799,7,1,1,1,1,0,bddd0db945baf4752c7cae9cf707fcd1616db38d::
+https://api.github.com/repos/apache/storm,1033,STORM-1450::1.x-branch,0,closed,,Boyang Jerry Peng,3613359,55,5,658,374,14,0,829ea117c8b382ef72d3c5df841534b89f06dffa::688366902d98a7fdc17d854a33ff975c6a60ccab::4722c6f5d467c147996a027d00baf867cf6bc54d::052941084bc7fcaee3d433d39d2bcc7a9953c69a::e0e415fd10557bb79f9e0a53647086e71932429b::
+https://api.github.com/repos/apache/storm,818,oveflow-buffer::0.9.x-branch,0,merged,,Abhishek Agarwal,1477457,16,1,39,33,1,0,e696481c164f011e59396ba2c7bb1031db31381d::
+https://api.github.com/repos/apache/storm,718,STORM-944-0.10-x-branch::0.10.x-branch,0,merged,,Jungtaek Lim,1317309,242,1,24,0,1,0,9b89cf0a0e418ad243f88c527577f0c4886bf8e0::
+https://api.github.com/repos/apache/storm,717,YSTORM-912_0.10::0.10.x-branch,0,merged,,Kyle Nusbaum,1819836,42,2,125,35,4,0,877143690aa42e90fe8d97e940090378d4ab2811::3fd46c3e95f970a2fc1ef7589ef94ed871165218::

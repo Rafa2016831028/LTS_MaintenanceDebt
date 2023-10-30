@@ -7,7 +7,7 @@ from Helper.helper_pygithub import *
 import csv
 
 g, backup_keys, no_bused_key, accesskey = initialize_G()
-repository_names =[ 
+repository_names_python =[ 
 "python/buildmaster-config",
 "python/python-docs-es",
 "python/peps",
@@ -64,6 +64,8 @@ repository_names_eclipse = [
 "eclipse/capella-xhtml-docgen",
 "eclipse/xtext-eclipse"
 ]
+
+repository_names_apache = ["apache/accumulo/","apache/activemq-artemis/","apache/ambari/","apache/apisix/","apache/arrow/","apache/arrow-datafusion/","apache/arrow-rs/","apache/avro/","apache/beam/","apache/bigtop/","apache/brooklyn-server/","apache/camel/","apache/camel-quarkus/","apache/cassandra/","apache/cloudstack/","apache/couchdb/","apache/cxf/","apache/doris/","apache/dubbo/","apache/fineract/","apache/groovy/","apache/hudi/","apache/ignite/","apache/incubator-celeborn/","apache/jackrabbit-oak/","apache/james-project/","apache/kyuubi/","apache/maven/","apache/netbeans/","apache/nifi/","apache/nuttx/","apache/ozone/","apache/phoenix/","apache/pulsar/","apache/solr/","apache/superset/","apache/tomcat/","apache/tvm/","apache/zeppelin/","apache/zookeeper/"]
 
 
 data_read_write = []

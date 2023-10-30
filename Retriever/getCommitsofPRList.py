@@ -9,17 +9,19 @@ import csv
 # Replace these with your own credentials
 
 
-pull_request_ids =[125,116,78,61,16]
-
-
+pull_request_ids =[1604,1600,1595,1581,1580,1520,1519,1482,1473,1386,1377,1323,1305,1196,1195,1166,1164,1158,1156,1144,1128,1121,1114,1108,1100,1088,1079,1069,1064,1062,1025,1013,1012,1001,999,943,937,934,933,917,905,904,890,860,801,752,727,708,697,692,678,661,606,603,592,591,589,585,575,573,568,550,537,509,479,383,382,348,210]
+    
+    
+    
 data_read_write = []
-url ="https://api.github.com/repos/python/typed_ast"
+data_read_write_with_Label =[]
+url ="https://api.github.com/repos/apache/orc"
 
 # Initialize a Github instance
 g, backup_keys, no_bused_key, accesskey = initialize_G()
 
 # Get the repository
-repo = g.get_repo("python/typed_ast")
+repo = g.get_repo("apache/orc")
 
 
 def get_pull_request(pull_request_id):
@@ -43,9 +45,12 @@ for pull_request_id in pull_request_ids:
             all_commits = all_commits + commit.sha + "::"
         pull_info = [url, str(pull.number), pull.head.ref+"::"+pull.base.ref, str(intra_branch), pr_status, pr_labels, pull.user.name, pull.user.id, pull.user.followers, pull.commits, pull.additions, pull.deletions, pull.changed_files, len(pull.assignees), all_commits]
         data_read_write.append(pull_info)
+        if 'backport' in pull.title.lower() or 'backport' in pr_labels.lower() or 'backport' in pull.body.lower(): 
+            data_read_write_with_Label.append(pull_info)
+
     except Exception as e:
         print(e)
 
 with open("backport.csv", "wt") as fp1:
     writer = csv.writer(fp1, delimiter=",")
-    writer.writerows(data_read_write)
+    writer.writerows(data_read_write_with_Label)
