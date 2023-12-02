@@ -1,0 +1,7 @@
+https://api.github.com/repos/python/buildmaster-config,365,dependabot/pip/future-0.18.3::main,1,closed,dependencies::,,49699333,0,1,1,1,1,0,26852a814e57da4570c04bb7bf0799455dd6b9bc::
+https://api.github.com/repos/python/buildmaster-config,377,req::main,1,merged,,Victor Stinner,194129,1148,1,15,15,1,0,4c4437deaf4e3a45006d089831a4001db535a55e::
+https://api.github.com/repos/python/buildmaster-config,221,bpo-42336::master,0,merged,,Steve Dower,1693688,360,1,6,5,1,0,f2aa317a8df9aec0b9ff74f026ca9a89061a910a::
+https://api.github.com/repos/python/buildmaster-config,96,aix-on-3.8::master,0,merged,,Michael Felt,10852597,16,5,3,2,1,0,f7a4cb633a5e38aae19bf91f382111580b6ee649::9874915aa616965b42a9f3ae76d15401ec59024e::553a9da085ea8cb1e4d68c9f84dcf97c8a9ee4df::d858b44f478baa2b6291353f421e349c618abe8d::5e09e4a99136811e616c95f12b2251284635c964::
+https://api.github.com/repos/python/buildmaster-config,83,only_master::master,0,merged,,Victor Stinner,194129,1148,1,17,3,1,0,b0e0a7d3e9a64dfe65c3f287762d39b650065093::
+https://api.github.com/repos/python/buildmaster-config,57,git_reporter::master,0,merged,,Pablo Galindo Salgado,11718525,846,3,165,0,2,1,b45a74084e901913a44c1359bfd940fa4d2156a7::f535bdacadc5ad68197ef80edb22224b05f33845::a19c11e87eafda9d63e08d2395a79819f744d639::
+https://api.github.com/repos/python/buildmaster-config,40,add-cygwin-builder::master,1,merged,,Zachary Ware,6275069,117,1,11,3,1,0,cbd7c01cf02c4003b53eb2438595cabad09e912e::

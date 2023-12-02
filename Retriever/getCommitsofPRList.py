@@ -9,19 +9,17 @@ import csv
 # Replace these with your own credentials
 
 
-pull_request_ids =[1604,1600,1595,1581,1580,1520,1519,1482,1473,1386,1377,1323,1305,1196,1195,1166,1164,1158,1156,1144,1128,1121,1114,1108,1100,1088,1079,1069,1064,1062,1025,1013,1012,1001,999,943,937,934,933,917,905,904,890,860,801,752,727,708,697,692,678,661,606,603,592,591,589,585,575,573,568,550,537,509,479,383,382,348,210]
-    
-    
+pull_request_ids =[209,206]
     
 data_read_write = []
 data_read_write_with_Label =[]
-url ="https://api.github.com/repos/apache/orc"
+url ="https://api.github.com/repos/apache/sedona"
 
 # Initialize a Github instance
 g, backup_keys, no_bused_key, accesskey = initialize_G()
 
 # Get the repository
-repo = g.get_repo("apache/orc")
+repo = g.get_repo("apache/sedona")
 
 
 def get_pull_request(pull_request_id):
@@ -53,4 +51,4 @@ for pull_request_id in pull_request_ids:
 
 with open("backport.csv", "wt") as fp1:
     writer = csv.writer(fp1, delimiter=",")
-    writer.writerows(data_read_write_with_Label)
+    writer.writerows(data_read_write)

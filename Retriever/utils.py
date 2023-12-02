@@ -45,14 +45,14 @@ def get_commit_code_fromGH(Rcsvpath = 'Project_link.csv', code_path = "Demo", re
                 commit = repo.get_commit(sha=merge_commit)
                 for file_id, changes in enumerate(commit.files):
                     if changes.patch is not None:
-                        if changes.filename.split(".")[-1] in ["java"]:
+                        if changes.filename.split(".")[-1] in ["ts"]:
                             file_name = changes.filename.split("/")[-1]
                             if not os.path.exists(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name):
                                 os.makedirs(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name)   
-                            with open(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name+"/old.java", "w") as fp1:
+                            with open(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name+"/old.ts", "w") as fp1:
                                 old_contents = repo.get_contents(changes.filename, ref=commit.parents[0].sha).decoded_content.decode()
                                 fp1.write(old_contents)
-                            with open(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name+"/new.java", "w") as fp2:
+                            with open(code_path+"/Codes/"+user_name+"::"+repo_name+"/"+release+"/"+pull_request_id+"/"+merge_commit+"/"+file_name+"/new.ts", "w") as fp2:
                                 new_contents = repo.get_contents(changes.filename, ref=commit.sha).decoded_content.decode()
                                 fp2.write(new_contents)
                         else:
@@ -64,8 +64,8 @@ def get_commit_code_fromGH(Rcsvpath = 'Project_link.csv', code_path = "Demo", re
                 print(e)
                 continue 
                    
-get_commit_code_fromGH('Data/EcoSystem/eclipse/kitalpha/backport.csv',
- 'data_code_stable')
+get_commit_code_fromGH('Data/EcoSystem/eclipse/che/backport.csv',
+ 'data_code_stable', release='ts')
 
 # get_commit_code_fromGH('projectWise_data_from_github/CPython/stable-3.9.csv',
 #  'data_code_stable', release="stable-3.9")

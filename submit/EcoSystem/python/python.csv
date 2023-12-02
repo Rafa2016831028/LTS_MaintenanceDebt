@@ -1,0 +1,80 @@
+python/buildmaster-config	Configuration for buildbot.python.org	public	2023-10-17T21:41:20Z
+python/cpython	The Python programming language	public	2023-10-17T21:34:03Z
+python/python-docs-es	Spanish translation of the Python documentation.	public	2023-10-17T21:29:22Z
+python/release-tools	Scripts for making (C)Python releases	public	2023-10-17T21:04:37Z
+python/mypy	Optional static typing for Python	public	2023-10-17T20:43:50Z
+python/docsbuild-scripts	scripts for building documentation on docs.python.org	public	2023-10-17T20:27:30Z
+python/bedevere	A bot to help identify missing information for CPython pull requests	public	2023-10-17T19:42:00Z
+python/typeshed	Collection of library stubs for Python, with static types	public	2023-10-17T17:19:26Z
+python/cherry-picker	🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.	public	2023-10-17T17:09:53Z
+python/peps	Python Enhancement Proposals	public	2023-10-17T15:40:40Z
+python/psf-salt	PSF infrastructure configuration	public	2023-10-17T13:03:01Z
+python/devguide	The Python developer's guide	public	2023-10-17T10:03:27Z
+python/python-docs-uk	Ukrainian translation of the Python Documentation	public	2023-10-17T06:10:04Z
+python/python-docs-zh-tw	Traditional Chinese (zh-tw) translation of the Python Documentation	public	2023-10-17T00:05:50Z
+python/python-docs-tr	Turkish Translation of the Python Documentation	public	2023-10-17T00:05:01Z
+python/python-docs-ja		public	2023-10-16T23:51:54Z
+python/miss-islington	🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests	public	2023-10-16T18:29:46Z
+python/pyperformance	Python Performance Benchmark Suite	public	2023-10-16T17:50:19Z
+python/pythoncapi-compat	The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.	public	2023-10-16T12:55:36Z
+python/python-docs-pt-br	Brazilian Portuguese translation of the Python Documentation	public	2023-10-16T10:26:05Z
+python/python-docs-zh-cn	zh_CN translation of the Python documentation	public	2023-10-15T10:57:24Z
+python/python-docs-pl	Polskie tłumaczenie dokumentacji Pythona	public	2023-10-13T15:09:04Z
+python/pythondotorg	Source code for python.org	public	2023-10-13T06:50:43Z
+python/python-docs-theme	Sphinx theme for Python documentation	public	2023-10-13T05:15:05Z
+python/typing_extensions	Backported and experimental type hints for Python	public	2023-10-12T06:14:25Z
+python/importlib_metadata	Backport of the importlib.metadata module	public	2023-10-11T12:54:24Z
+python/blurb_it	`blurb add` over the internet	public	2023-10-09T15:32:52Z
+python/tzdata	Python package wrapping the IANA time zone database	public	2023-10-08T23:23:03Z
+python/docs-community	Community management for documentation contributors and the Docs Workgroup	public	2023-10-07T19:33:16Z
+python/planet	Configuration for Python planets (e.g. http://planetpython.org)	public	2023-10-07T09:48:31Z
+python/cpython-bin-deps	Binaries that the cpython build process depends on	public	2023-10-06T13:00:25Z
+python/cpython-source-deps	Source for packages that the cpython build process depends on	public	2023-10-05T14:07:02Z
+python/typing	Python static typing home. Hosts the documentation and a user help forum.	public	2023-10-04T02:34:11Z
+python/python-docs-ko	Korean translation of the Python documentation	public	2023-09-25T15:47:02Z
+python/importlib_resources	Backport of the importlib.resources module	public	2023-09-20T18:00:33Z
+python/pythontestdotnet	source of pythontest.net (resources used for Python test suite)	public	2023-09-20T05:19:05Z
+python/mypy_extensions	Extensions for mypy	public	2023-09-09T21:40:39Z
+python/steering-council	Communications from the Steering Council	public	2023-08-29T15:52:41Z
+python/core-workflow	Issue tracker for CPython's workflow	public	2023-07-26T15:14:53Z
+python/python-docs-fr	Mirroir en lecture seule de https://git.afpy.org/AFPy/python-docs-fr	public	2023-07-17T21:28:10Z
+python/discord-bot	Discord Bot for Core Devs Discord server	public	2023-07-08T13:10:22Z
+python/typed_ast	Modified fork of CPython's ast module that parses `# type:` comments	public, archived	2023-07-03T22:56:14Z
+python/.github	Organization-wide GitHub settings	public	2023-06-20T13:24:40Z
+python/psf-election	Tools and documentation around running a PSF election	public	2023-05-31T16:46:10Z
+python/python-docs-it	Italian translation of the Python documentation.	public	2023-01-06T11:50:37Z
+python/codespeed	A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org	public, fork	2022-12-09T20:43:46Z
+python/the-knights-who-say-ni	CLA enforcement bot for Python organization projects	public, archived	2022-07-07T21:00:51Z
+python/pythonineducation.org	The pythonineducation.org website	public	2022-04-09T16:53:15Z
+python/psf-infra-meta	Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :)	public	2022-04-08T09:26:49Z
+python/docker-bpo	Docker image for bugs.python.org	public	2022-01-27T09:32:25Z
+python/python-docs-id	Terjemahan Bahasa Indonesia untuk Dokumentasi Python	public	2021-10-05T08:03:24Z
+python/psf-packages		public	2021-09-27T19:10:31Z
+python/psf-bylaws	PSF Bylaws in markdown format	public, fork	2021-07-23T16:04:24Z
+python/hugs.python.org		public	2021-05-12T21:47:46Z
+python/asyncio	asyncio historical repository	public, archived	2021-04-28T17:37:52Z
+python/exceptiongroups	An early draft of a PEP around Exception Groups in Python	public, archived	2021-02-19T10:02:17Z
+python/language-summit	Resources for the annual Python Language Summit	public	2021-01-14T19:23:57Z
+python/pootle-python-org-backup		public	2020-11-04T21:42:52Z
+python/core-sprint	Repo for Virtual Core Dev Sprint 2020	public	2020-10-23T13:20:02Z
+python/psf-chef	Chef configuration and cookbooks for the Python Software Foundation	public, archived	2020-02-13T13:34:53Z
+python/pycon-code-of-conduct	pycon code of conduct	public	2019-05-07T13:22:10Z
+python/bugs.python.org	Meta-issue tracker for bugs.python.org	public	2018-06-26T13:16:57Z
+python/getpython3.com	getpython3.com page and resources.	public	2018-06-08T16:26:41Z
+python/bpo-builder	bugs.python.org builder image & other deployment artifacts	public, archived	2018-05-18T23:29:39Z
+python/python-dev-survey	Place for gathering feedback from the public on the Python Developers Survey	public	2018-03-28T16:47:38Z
+python/python-docs-hu	Hungarian Translation of the Python Documentation	public	2017-10-04T08:53:52Z
+python/psf-community-resources	Short guides to PSF-related resources	public	2017-08-20T03:14:13Z
+python/redistributor-guide	Guidance & recommendations for anyone publishing their own binary builds of CPython	public	2017-08-15T10:53:54Z
+python/consul-operator	A kubernetes operator for consul	public, archived	2017-08-10T04:11:18Z
+python/python-docs-bn-in		public	2017-06-11T13:34:47Z
+python/buildbot	Fork of BuildBot formerly running on buildbot.python.org	public, fork, archived	2017-02-08T05:41:03Z
+python/speed.python.org		public, archived	2016-09-07T20:52:25Z
+python/overload-sig	Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/	public	2016-08-17T14:22:50Z
+python/tlsproxy		public	2016-06-18T16:27:14Z
+python/devinabox	Documentation and tools to help host a sprint on Python core development	public	2016-05-09T19:23:54Z
+python/psf-docs	PSF Docs	public	2015-08-13T09:51:44Z
+python/raspberryio	Source code for raspberry.io	public, archived	2014-04-22T15:28:51Z
+python/community-starter-kit	Collection of resources for Python community organizers	public	2013-01-22T18:33:31Z
+python/psfoutreach	PSF Outreach website	public	2012-10-05T17:31:05Z
+python/historic-python-materials	Contains some old pages from python.org	public	2012-05-11T16:33:10Z
