@@ -1,6 +1,6 @@
 # LTS_MaintenanceDebt
 
-The core intent of the project is to identify the maintenance trend of LTS support, to pinpoint how they are safeguarding the existing users of the targeted release.
+The core intent of the project is to identify the maintenance trend of LTS support, to pinpoint when and why Technical debt manifests in the targeted release. The dataset available at \data_code_stable folder.
 
 The pipeline of analysis is described in the following picture:
 
