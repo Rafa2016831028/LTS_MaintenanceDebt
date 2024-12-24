@@ -1,4 +1,4 @@
-# LTS_MaintenanceDebt
+# Apache Long Term Support (LTS) Maintenance Debt
 
 The core intent of the project is to identify the maintenance trend of LTS support, to pinpoint when and why Technical debt manifests in the targeted release. The dataset available at \data_code_stable folder.
 
