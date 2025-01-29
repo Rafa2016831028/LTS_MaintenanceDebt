@@ -44,4 +44,4 @@ The pipeline of analysis is described in the following picture:
 
 # Diagram
 
-Please find the !(link)[https://drive.google.com/file/d/1Ihp0vFnOlCfWVOWmG3WEYZAFupf9f5--/view?usp=sharing]
+Please find the ![link](https://drive.google.com/file/d/1Ihp0vFnOlCfWVOWmG3WEYZAFupf9f5--/view?usp=sharing)
