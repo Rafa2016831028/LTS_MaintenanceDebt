@@ -102,8 +102,8 @@ stages {
 }
 ```
 
-4.To view Results: Open your SonarQube dashboard in the browser. Navigate to your project key. You’ll see issues such as bugs, vulnerabilities, code smells, and maintainability indexes for try.py
-5. To visualize the metrics output 
+   4.To view Results: Open your SonarQube dashboard in the browser. Navigate to your project key. You’ll see issues such as bugs, vulnerabilities, code smells, and maintainability indexes for try.py
+   5. To visualize the metrics output, please follow the [Viz file](https://github.com/Rafa2016831028/LTS_MaintenanceDebt/blob/main/StackOverflow.ipynb)
 # Research Question
 1. Are the effort of safeguarding the releases prone to introducing quality debt to the target release?
 2. How does quality debt evolve in release lifecycle?
