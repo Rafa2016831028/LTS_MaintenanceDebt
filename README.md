@@ -33,8 +33,8 @@ The pipeline of analysis is described in the following picture:
     - sudo apt-get install python3-tk
 
 # Reproducability (run the code on SonarQube)
-1. Install SonarScanner - Make sure you have the SonarScanner installed.
-2. Create sonar-project.properties and set up your SonarQube key with
+1. Install SonarQube following the [official doccumentation](https://docs.sonarsource.com/sonarqube-server/10.8/setup-and-upgrade/install-the-server/introduction).
+2. Create sonar-project.properties and set up your SonarQube key with [PostGreSQL](https://docs.sonarsource.com/sonarqube-server/10.8/setup-and-upgrade/install-the-server/installing-the-database).
 
 At the root of your repo, create a file named sonar-project.properties:
 ```
@@ -51,7 +51,7 @@ sonar-scanner \
   -Dsonar.projectBaseDir=. \
   -Dsonar.sources=Analyzer/try.py
 ```
-As we are working with a cluster of software projects to run them together, you need to configure your Jenkins pipeline
+4. Install Jenkins following the [official doc](https://www.jenkins.io/doc/book/installing/). As we are working with a cluster of software projects to run them together, you need to configure your Jenkins pipeline
 
 ```bash
 stages {
@@ -102,14 +102,13 @@ stages {
 }
 ```
 
-   4.To view Results: Open your SonarQube dashboard in the browser. Navigate to your project key. You’ll see issues such as bugs, vulnerabilities, code smells, and maintainability indexes for try.py
+   4. Open your SonarQube dashboard in the browser. Navigate to your project key. You’ll see issues such as bugs, vulnerabilities, code smells, and maintainability indexes for try.py
    5. To visualize the metrics output, please follow the [Viz file](https://github.com/Rafa2016831028/LTS_MaintenanceDebt/blob/main/StackOverflow.ipynb)
 # Research Question
 1. Are the effort of safeguarding the releases prone to introducing quality debt to the target release?
 2. How does quality debt evolve in release lifecycle?
 3. When and why do developers induce new technical debt in LTS support?
 
-# Links
 
 # Install
  [gh api](https://cli.github.com/manual/gh_api)
