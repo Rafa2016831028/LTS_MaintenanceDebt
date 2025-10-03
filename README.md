@@ -30,7 +30,7 @@ The pipeline of analysis is described in the following picture:
 3. When and why do developers induce new technical debt in LTS support?
 
 # Install
- ![gh api](https://cli.github.com/manual/gh_api)
+ [gh api](https://cli.github.com/manual/gh_api)
  
  # Data retrieve
  - gh repo list eclipse -L 300 > eclipse.csv
@@ -41,4 +41,4 @@ The pipeline of analysis is described in the following picture:
 
 # Diagram
 
-Please find the ![link](https://drive.google.com/file/d/1Ihp0vFnOlCfWVOWmG3WEYZAFupf9f5--/view?usp=sharing)
+[Backport Worflow Diagram](https://drive.google.com/file/d/1Ihp0vFnOlCfWVOWmG3WEYZAFupf9f5--/view?usp=sharing)
