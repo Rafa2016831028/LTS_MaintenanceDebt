@@ -29,9 +29,6 @@ The pipeline of analysis is described in the following picture:
 2. How does quality debt evolve in release lifecycle?
 3. When and why do developers induce new technical debt in LTS support?
 
-# Links
-![Github 2017 survey](https://opensourcesurvey.org/2017/)
-
 # Install
  ![gh api](https://cli.github.com/manual/gh_api)
  
